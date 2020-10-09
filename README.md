@@ -12,15 +12,21 @@ Available online at https://dogonlanguages.org/florafauna.cfm
 
 
 [![Build Status](https://travis-ci.org/tsammalex/heathdogon.svg?branch=master)](https://travis-ci.org/tsammalex/heathdogon)
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Glottolog: 89%](https://img.shields.io/badge/Glottolog-89%25-yellowgreen.svg "Glottolog: 89%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 0
-- **Concepts:** 0
-- **Lexemes:** 0
+- **Varieties:** 23
+- **Concepts:** 826
+- **Lexemes:** 9,026
 - **Sources:** 0
-- **Synonymy:** 0.00
+- **Synonymy:** 1.10
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 9026/9026 (100.00%)
 
 # Contributors
 

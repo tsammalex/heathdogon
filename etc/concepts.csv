@@ -1,4 +1,4 @@
-ID,GLOSS,canonicalName,GBIF_ID,scientificName,rank,kingdom,phylum,class,order,family,genus,kingdomKey,phylumKey,classKey,orderKey,familyKey,genusKey
+ID,Name,canonicalName,GBIF_ID,GBIF_NAME,rank,kingdom,phylum,class_,order,family,genus,kingdomKey,phylumKey,classKey,orderKey,familyKey,genusKey
 abelmoschusesculentus,Abelmoschus esculentus,Abelmoschus esculentus,3152707,Abelmoschus esculentus Moench,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Malvales,Malvaceae,Abelmoschus,6,7707728,220,941,6685,3152705
 abildgaardiawallichianalye,Abildgaardia wallichiana Lye,Bulbostylis barbata barbata,7226952,Bulbostylis barbata subsp. barbata,SUBSPECIES,Plantae,Tracheophyta,Liliopsida,Poales,Cyperaceae,Bulbostylis,6,7707728,196,1369,7708,2719209
 abrusprecatorius,Abrus precatorius,Abrus precatorius,10594944,Abrus precatorius,SPECIES,Animalia,Arthropoda,Insecta,Hemiptera,Cicadellidae,Abrus,1,54,216,809,9647,2031596
@@ -283,7 +283,7 @@ digitariaciliarisvarciliaris,Digitaria ciliaris var. ciliaris,Digitaria ciliaris
 digitaria,Digitaria,Digitaria,2704525,Digitaria Haller,GENUS,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Digitaria,6,7707728,196,1369,3073,2704525
 digitariaexilis,Digitaria exilis,Digitaria exilis,5289953,Digitaria exilis Stapf,SPECIES,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Digitaria,6,7707728,196,1369,3073,2704525
 diheteropogonhagerupii,Diheteropogon hagerupii,Diheteropogon hagerupii,4125105,Diheteropogon hagerupii Hitchcock,SPECIES,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Diheteropogon,6,7707728,196,1369,3073,4125094
-"['dinothrombiumtinctorium', 'Dinothrombium tinctorium', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']"
+dinothrombiumtinctorium,Dinothrombium tinctorium,,,,,,,,,,,,,,,,
 dioscoreaalata,Dioscorea alata,Dioscorea alata,2754476,Dioscorea alata L.,SPECIES,Plantae,Tracheophyta,Liliopsida,Dioscoreales,Dioscoreaceae,Dioscorea,6,7707728,196,1171,7694,2754367
 diospyrosmespiliformis,Diospyros mespiliformis,Diospyros mespiliformis,4071204,Diospyros mespiliformis Hochst. ex A.DC.,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Ericales,Ebenaceae,Diospyros,6,7707728,220,1353,6709,3030169
 dipcadiviride,Dipcadi viride,Dipcadi viride,2768199,Dipcadi viride Moench,SPECIES,Plantae,Tracheophyta,Liliopsida,Asparagales,Asparagaceae,Dipcadi,6,7707728,196,1169,7683,8407883
@@ -710,7 +710,7 @@ sinoxylonsenegalense,Sinoxylon senegalense,Sinoxylon senegalense,5879265,"Sinoxy
 solanumaethiopicum,Solanum aethiopicum,Solanum aethiopicum,2929847,Solanum aethiopicum L.,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,6,7707728,220,1176,7717,2928997
 solanumincanum,Solanum incanum,Solanum incanum,2929691,Solanum incanum L.,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,6,7707728,220,1176,7717,2928997
 solanummelongena,Solanum melongena,Solanum melongena,2930617,Solanum melongena L.,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,6,7707728,220,1176,7717,2928997
-"['solanummixedlibrary', 'Solanum mixed library', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']"
+solanummixedlibrary,Solanum mixed library,,,,,,,,,,,,,,,,
 solanumtuberosum,Solanum tuberosum,Solanum tuberosum,2930262,Solanum tuberosum L.,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Solanales,Solanaceae,Solanum,6,7707728,220,1176,7717,2928997
 sorghumarundinaceum,Sorghum arundinaceum,Sorghum arundinaceum,4108497,Sorghum arundinaceum (Desv.) Stapf,SPECIES,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Sorghum,6,7707728,196,1369,3073,2705180
 sorghumbicolor,Sorghum bicolor,Sorghum bicolor,2705181,Sorghum bicolor (L.) Moench,SPECIES,Plantae,Tracheophyta,Liliopsida,Poales,Poaceae,Sorghum,6,7707728,196,1369,3073,2705180
@@ -768,7 +768,7 @@ thamnolaeacinnamomeiventris,Thamnolaea cinnamomeiventris,Thamnolaea cinnamomeive
 tinosporabakis,Tinospora bakis,Tinospora bakis,3830860,Tinospora bakis Miers,SPECIES,Plantae,Tracheophyta,Magnoliopsida,Ranunculales,Menispermaceae,Tinospora,6,7707728,220,399,2411,7268723
 tockuserythrorhynchus,Tockus erythrorhynchus,Tockus erythrorhynchus,2475965,"Tockus erythrorhynchus (Temminck, 1823)",SPECIES,Animalia,Chordata,Aves,Bucerotiformes,Bucerotidae,Tockus,1,44,212,716,9720,2475953
 tockusnasutus,Tockus nasutus,Tockus nasutus,2475959,"Tockus nasutus (Linnaeus, 1766)",SPECIES,Animalia,Chordata,Aves,Bucerotiformes,Bucerotidae,Tockus,1,44,212,716,9720,2475953
-"['tockussp', 'Tockus sp.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']"
+tockussp,Tockus sp.,,,,,,,,,,,,,,,,
 torgostracheliotus,Torgos tracheliotus,Torgos tracheliotus,2480362,"Torgos tracheliotus (J.R.Forster, 1796)",SPECIES,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Torgos,1,44,212,7191147,2877,2480361
 trachydermahispida,Trachyderma hispida,Trachyderma hispida,9236809,"Trachyderma hispida (Forskl, 1775)",SPECIES,Animalia,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Trachyderma,1,54,216,1470,7857,2460827
 trachylepisperrotetii,Trachylepis perrotetii,Trachylepis perrotetii,5225355,"Trachylepis perrotetii (Duméril & Bibron, 1839)",SPECIES,Animalia,Chordata,Reptilia,Squamata,Scincidae,Trachylepis,1,44,358,715,9115,3240904
