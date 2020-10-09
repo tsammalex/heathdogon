@@ -1,6 +1,6 @@
 id,scientific_name,GBIF_ID,rank
 abelmoschusesculentus,Abelmoschus esculentus,3152707,SPECIES
-abildgaardiawallichianalye,Abildgaardia wallichiana Lye,,
+abildgaardiawallichianalye,Abildgaardia wallichiana Lye,7226952,
 abrusprecatorius,Abrus precatorius,10594944,SPECIES
 abutilonglaucum,Abutilon glaucum,3938698,
 acaciasenegal,Acacia senegal,164011701,
@@ -90,7 +90,7 @@ atractomorphaacutipennis,Atractomorpha acutipennis,5101021,SPECIES
 azadirachtaindica,Azadirachta indica,3190474,SPECIES
 bagrusbajad,Bagrus bajad,5201746,SPECIES
 baisseamultiflora,Baissea multiflora,3615895,SPECIES
-balanitesaegyptiacus,Balanites aegyptiacus,,
+balanitesaegyptiacus,Balanites aegyptiacus,5421115,
 balearicapavonina,Balearica pavonina,5228232,SPECIES
 bamanophisdorri,Bamanophis dorri,7503019,SPECIES
 bauhiniareticulata,Bauhinia reticulata,2953136,SPECIES
@@ -208,7 +208,7 @@ combretumglutinosum,Combretum glutinosum,3698250,SPECIES
 combretummicranthum,Combretum micranthum,3698309,SPECIES
 combretumnioroense,Combretum nioroense,3699787,
 combretumpaniculatum,Combretum paniculatum,7166895,SPECIES
-commelinabenghalensisbenghalensis,Commelina benghalensis benghalensis,,
+commelinabenghalensisbenghalensis,Commelina benghalensis benghalensis,2763941,
 commelinaforskalaei,Commelina forskalaei,3697010,SPECIES
 commelinalivingstonii,Commelina Livingstonii,8268360,
 commiphoraafricana,Commiphora africana,7286896,
@@ -223,7 +223,7 @@ cordiamyxa,Cordia myxa,10031650,SPECIES
 cordiasinensis,Cordia sinensis,5660676,SPECIES
 corvusalbus,Corvus albus,2482519,SPECIES
 corvusruficollis,Corvus ruficollis,2482479,SPECIES
-crataevaadansoniisubspodora,Crataeva adansonii subsp. odora,,
+crataevaadansoniisubspodora,Crataeva adansonii subsp. odora,7737878,
 creoleonafricanus,Creoleon africanus,2098554,SPECIES
 cricetomysgambianus,Cricetomys gambianus,2438550,SPECIES
 criniferpiscator,Crinifer piscator,2475211,SPECIES
@@ -523,7 +523,7 @@ mitragynainermis,Mitragyna inermis,2900458,
 mollugonudicaulis,Mollugo nudicaulis,9476003,
 momordicabalsamina,Momordica balsamina,2874582,
 momordica,Momordica,2874578,GENUS
-monechmandellense,Monechma ndellense,,
+monechmandellense,Monechma ndellense,3774244,
 moringaoleifera,Moringa oleifera,3054181,SPECIES
 mormyrusrume,Mormyrus rume,2402735,SPECIES
 motacillaflava,Motacilla flava,9701857,SPECIES
@@ -546,18 +546,18 @@ neophronpercnopterus,Neophron percnopterus,4966730,
 neotisdenhami,Neotis denhami,2474874,SPECIES
 neptuniaoleracea,Neptunia oleracea,5353533,SPECIES
 nicotiana,Nicotiana,2928756,GENUS
-nicotianarustica,Nicotiana rustica,,
+nicotianarustica,Nicotiana rustica,2928775,
 nicotianatabacum,Nicotiana tabacum,2928774,SPECIES
 nothosaervabrachiata,Nothosaerva brachiata,3675362,SPECIES
 numidameleagris,Numida meleagris,2473341,SPECIES
 nycteristhebaica,Nycteris thebaica,5218614,SPECIES
-nymphaealotus,Nymphaea lotus,,
+nymphaealotus,Nymphaea lotus,2882429,
 nymphaeamicrantha,Nymphaea micrantha,2882414,SPECIES
 nymphaea,Nymphaea,2882411,GENUS
-ocimumamericanum,Ocimum americanum,,
+ocimumamericanum,Ocimum americanum,2927097,
 oedaleussenegalensis,Oedaleus senegalensis,1714146,SPECIES
 oenacapensis,Oena capensis,2495342,SPECIES
-oldenlandiacorymbosa,Oldenlandia corymbosa,,
+oldenlandiacorymbosa,Oldenlandia corymbosa,2911970,
 onychognathusneumanni,Onychognathus neumanni,7341433,SPECIES
 oplostomusfuligineus,Oplostomus fuligineus,1082819,SPECIES
 ornithacriscavroisi,Ornithacris cavroisi,1707099,SPECIES
@@ -566,7 +566,7 @@ orycteropusafer,Orycteropus afer,5218416,SPECIES
 oryzabarthii,Oryza barthii,2703457,SPECIES
 oryzalongistaminata,Oryza longistaminata,2703462,SPECIES
 oryza,Oryza,2703455,GENUS
-oryzasativa,Oryza sativa,,
+oryzasativa,Oryza sativa,2703459,
 otussenegalensis,Otus senegalensis,5232311,SPECIES
 ourebiaourebiquadriscopa,Ourebia ourebi quadriscopa,4262448,SUBSPECIES
 oxybelus,Oxybelus,4298268,GENUS
@@ -575,7 +575,7 @@ pachnodacordata,Pachnoda cordata,1081726,SPECIES
 pachnodainterrupta,Pachnoda interrupta,1081732,SPECIES
 pachnodamarginata,Pachnoda marginata,1081779,SPECIES
 pachycondyla,Pachycondyla,1319685,GENUS
-pancratiumtenuifolium,Pancratium tenuifolium,,
+pancratiumtenuifolium,Pancratium tenuifolium,2853255,
 pancratiumtrianthum,Pancratium trianthum,2853265,SPECIES
 pandiakaangustifolia,Pandiaka angustifolia,3675177,SPECIES
 pandinusimperator,Pandinus imperator,6894611,SPECIES
@@ -584,19 +584,19 @@ panicumsubalbidum,Panicum subalbidum,4123081,SPECIES
 pantheraleo,Panthera leo,5219404,SPECIES
 pantherapardus,Panthera pardus,5219436,SPECIES
 papioanubis,Papio anubis,5707341,SPECIES
-parkiabiglobosa,Parkia biglobosa,,
+parkiabiglobosa,Parkia biglobosa,5348812,
 parkinsoniaaculeata,Parkinsonia aculeata,5357217,SPECIES
-paspalumscrobiculatum,Paspalum scrobiculatum,,
+paspalumscrobiculatum,Paspalum scrobiculatum,2705610,
 passergriseus,Passer griseus,5231193,SPECIES
 passerluteus,Passer luteus,5231210,SPECIES
 pelomedusasubrufa,Pelomedusa subrufa,10545407,SPECIES
-pennisetumglaucum,Pennisetum glaucum,,
-pennisetumpedicellatum,Pennisetum pedicellatum,,
-pennisetumpolystachion,Pennisetum polystachion,,
-pentanemaindicum,Pentanema indicum,,
-pentatropisnivalis,Pentatropis nivalis,,
+pennisetumglaucum,Pennisetum glaucum,5828197,
+pennisetumpedicellatum,Pennisetum pedicellatum,5828233,
+pennisetumpolystachion,Pennisetum polystachion,7258835,
+pentanemaindicum,Pentanema indicum,3146542,
+pentatropisnivalis,Pentatropis nivalis,8266933,
 pergulariatomentosa,Pergularia tomentosa,7877996,SPECIES
-peristrophepaniculata,Peristrophe paniculata,,
+peristrophepaniculata,Peristrophe paniculata,8778402,
 persicariadecipiens,Persicaria decipiens,4036197,SPECIES
 phacochoerusafricanus,Phacochoerus africanus,2441212,SPECIES
 phoeniculuspurpureus,Phoeniculus purpureus,2498452,SPECIES
@@ -604,13 +604,13 @@ phoenixdactylifera,Phoenix dactylifera,6109699,SPECIES
 phragmitesaustralis,Phragmites australis,5290149,SPECIES
 phragmiteskarka,Phragmites karka,5290154,SPECIES
 phyllanthusmuellerianus,Phyllanthus muellerianus,5381223,SPECIES
-phyllanthuspentandrus,Phyllanthus pentandrus,,
+phyllanthuspentandrus,Phyllanthus pentandrus,5382448,
 phyllanthusreticulatusreticulatus,Phyllanthus reticulatus reticulatus,7225978,VARIETY
-phyllognathusburmeisteri,Phyllognathus burmeisteri,,
-physalisangulata,Physalis angulata,,
+phyllognathusburmeisteri,Phyllognathus burmeisteri,4995609,
+physalisangulata,Physalis angulata,5341792,
 physalislagascae,Physalis lagascae,5341775,SPECIES
-physalis,Physalis,,
-pimeliagrandis,Pimelia grandis,,
+physalis,Physalis,2928907,
+pimeliagrandis,Pimelia grandis,9894737,
 pinarocoryserythropygia,Pinarocorys erythropygia,2490607,SPECIES
 piperguineense,Piper guineense,3086326,SPECIES
 pistiastratiotes,Pistia stratiotes,2870583,SPECIES
@@ -622,7 +622,7 @@ poekilocerusbufoniushieroglyphicus,Poekilocerus bufonius hieroglyphicus,6256899,
 poicephalussenegalus,Poicephalus senegalus,2479964,SPECIES
 polistes,Polistes,1310500,GENUS
 polycarpaeacorymbosa,Polycarpaea corymbosa,3085781,SPECIES
-polydoraserratuloides,Polydora serratuloides,,
+polydoraserratuloides,Polydora serratuloides,8382075,
 polygalaarenaria,Polygala arenaria,7634472,SPECIES
 polypterussenegalus,Polypterus senegalus,4287129,SPECIES
 portulacafoliosa,Portulaca foliosa,4023429,SPECIES
@@ -634,12 +634,12 @@ prosopisafricana,Prosopis africana,5358514,SPECIES
 prosopisjuliflora,Prosopis juliflora,5358460,SPECIES
 protopterusannectens,Protopterus annectens,2441257,SPECIES
 psammophiselegans,Psammophis elegans,5959464,SPECIES
-psammophissibilans,Psammophis sibilans,,
-pseudoprotaetiastolata,Pseudoprotaetia stolata,,
-psidiumguajava,Psidium guajava,,
+psammophissibilans,Psammophis sibilans,5959474,
+pseudoprotaetiastolata,Pseudoprotaetia stolata,4768311,
+psidiumguajava,Psidium guajava,5420380,
 psittaculakrameri,Psittacula krameri,2479226,SPECIES
-pterocarpuserinaceus,Pterocarpus erinaceus,,
-pterocarpuslucens,Pterocarpus lucens,,
+pterocarpuserinaceus,Pterocarpus erinaceus,5349317,
+pterocarpuslucens,Pterocarpus lucens,5349254,
 pteroclesexustus,Pterocles exustus,9522580,SPECIES
 pteroclesquadricinctus,Pterocles quadricinctus,2480203,SPECIES
 ptilopachuspetrosus,Ptilopachus petrosus,2474089,SPECIES
@@ -649,21 +649,21 @@ ptyodactylusragazzii,Ptyodactylus ragazzii,5221124,SPECIES
 ptyonoprognefuligulapusilla,Ptyonoprogne fuligula pusilla,6086040,SUBSPECIES
 pupalialappacea,Pupalia lappacea,7323604,SPECIES
 pycnonotusbarbatus,Pycnonotus barbatus,2486147,SPECIES
-pycreusmacrostachyos,Pycreus macrostachyos,,
+pycreusmacrostachyos,Pycreus macrostachyos,2730317,
 pyrgomorphavignaudi,Pyrgomorpha vignaudi,7712476,SPECIES
 pythonregius,Python regius,2465380,SPECIES
 pythonsebae,Python sebae,2465346,SPECIES
 queleaquelea,Quelea quelea,2493987,SPECIES
-rhabdotissobrina,Rhabdotis sobrina,,
+rhabdotissobrina,Rhabdotis sobrina,1077513,
 rhinopomamicrophyllum,Rhinopoma microphyllum,5218749,SPECIES
 rhinopomastusaterrimus,Rhinopomastus aterrimus,2498432,SPECIES
 rhinoptiluschalcopterus,Rhinoptilus chalcopterus,2480735,SPECIES
 rhipicephalusturanicus,Rhipicephalus turanicus,2183564,SPECIES
 rhynchosiaminimamemnonia,Rhynchosia minima memnonia,5350629,VARIETY
 rhynchosiaminimaminima,Rhynchosia minima minima,8656238,FORM
-rhynchosiaminima,Rhynchosia minima,,
+rhynchosiaminima,Rhynchosia minima,5350585,
 ricinuscommunis,Ricinus communis,5380041,SPECIES
-rogeriaadenophylla,Rogeria adenophylla,,
+rogeriaadenophylla,Rogeria adenophylla,5527272,
 rottboelliacochinchinensis,Rottboellia cochinchinensis,2704075,SPECIES
 rousettusaegyptiacus,Rousettus aegyptiacus,2432953,SPECIES
 ruelliacyanea,Ruellia cyanea,5574820,SPECIES
@@ -672,7 +672,7 @@ saccharumofficinarum,Saccharum officinarum,2703912,SPECIES
 salvadorapersica,Salvadora persica,5580727,SPECIES
 sansevierialiberica,Sansevieria liberica,2770659,SPECIES
 sansevieria,Sansevieria,2770498,GENUS
-sarcocephaluslatifolius,Sarcocephalus latifolius,,
+sarcocephaluslatifolius,Sarcocephalus latifolius,5336165,
 sarcophaga,Sarcophaga,1463100,GENUS
 sarkidiornismelanotos,Sarkidiornis melanotos,2498001,SPECIES
 schilbeintermedius,Schilbe intermedius,2341731,SPECIES
@@ -683,49 +683,49 @@ schoenoplectuscorymbosus,Schoenoplectus corymbosus,2711275,SPECIES
 scintharistanotabilis,Scintharista notabilis,1713079,SPECIES
 sclerocaryabirrea,Sclerocarya birrea,7160810,SPECIES
 scolopendra,Scolopendra,2231802,GENUS
-scopariadulcis,Scoparia dulcis,,
+scopariadulcis,Scoparia dulcis,3171787,
 scopusumbretta,Scopus umbretta,5229154,SPECIES
-securidacalongepedunculata,Securidaca longepedunculata,,
+securidacalongepedunculata,Securidaca longepedunculata,7344617,
 senegaliaataxacantha,Senegalia ataxacantha,7510932,SPECIES
 senegalialaeta,Senegalia laeta,3796062,SPECIES
 senegaliamacrostachya,Senegalia macrostachya,7936172,SPECIES
 sennaitalicaitalica,Senna italica italica,7225446,SUBSPECIES
 sennaobtusifolia,Senna obtusifolia,2957408,SPECIES
 sennaoccidentalis,Senna occidentalis,2957966,SPECIES
-serinusleucopygius,Serinus leucopygius,,
+serinusleucopygius,Serinus leucopygius,6100990,
 sesamumalatum,Sesamum alatum,3172623,SPECIES
 sesamumindicum,Sesamum indicum,3172622,SPECIES
 sesbaniadalzielii,Sesbania dalzielii,2970627,SPECIES
-sesbaniasesban,Sesbania sesban,,
-setariapumila,Setaria pumila,,
+sesbaniasesban,Sesbania sesban,2970648,
+setariapumila,Setaria pumila,5673972,
 setariaverticillata,Setaria verticillata,5289686,SPECIES
 sherifuriahaningtoni,Sherifuria haningtoni,1707104,SPECIES
 sidaabutifolia,Sida abutifolia,5406718,SPECIES
 sidacerradoensis,Sida cerradoensis,5619128,SPECIES
-sidacordifolia,Sida cordifolia,,
+sidacordifolia,Sida cordifolia,5406755,
 sidarhombifolia,Sida rhombifolia,5406735,SPECIES
 sidaspinosa,Sida spinosa,5406741,SPECIES
 sidaurens,Sida urens,5406763,SPECIES
 sinoxylonsenegalense,Sinoxylon senegalense,5879265,SPECIES
 solanumaethiopicum,Solanum aethiopicum,2929847,SPECIES
-solanumincanum,Solanum incanum,,
+solanumincanum,Solanum incanum,2929691,
 solanummelongena,Solanum melongena,2930617,SPECIES
 solanummixedlibrary,Solanum mixed library,,
-solanumtuberosum,Solanum tuberosum,,
-sorghumarundinaceum,Sorghum arundinaceum,,
-sorghumbicolor,Sorghum bicolor,,
+solanumtuberosum,Solanum tuberosum,2930262,
+sorghumarundinaceum,Sorghum arundinaceum,4108497,
+sorghumbicolor,Sorghum bicolor,2705181,
 spermacocechaetocephala,Spermacoce chaetocephala,2918396,SPECIES
-spermacocefilifolia,Spermacoce filifolia,,
+spermacocefilifolia,Spermacoce filifolia,2918504,
 spermacoceruelliae,Spermacoce ruelliae,2918087,SPECIES
 spermacoce,Spermacoce,2918053,GENUS
-spermacocestachydeavarstachydea,Spermacoce stachydea var stachydea,,
+spermacocestachydeavarstachydea,Spermacoce stachydea var stachydea,2918146,
 sphaeranthusangustifolius,Sphaeranthus angustifolius,7592377,SPECIES
 sphenocleazeylanica,Sphenoclea zeylanica,3158672,SPECIES
-sphenopsdelislei,Sphenops delislei,,
+sphenopsdelislei,Sphenops delislei,5225492,
 sphingonotuscanariensisorientalis,Sphingonotus canariensis orientalis,6256570,SUBSPECIES
 spiloptilaclamans,Spiloptila clamans,9780994,SPECIES
 spodopteraexempta,Spodoptera exempta,5109925,SPECIES
-spondiasmombin,Spondias mombin,,
+spondiasmombin,Spondias mombin,8185571,
 sporobolusfestivus,Sporobolus festivus,4150265,SPECIES
 sporobolusmicroprotus,Sporobolus microprotus,4148844,SPECIES
 sporopipesfrontalis,Sporopipes frontalis,2494084,SPECIES
@@ -738,7 +738,7 @@ streptopeliavinacea,Streptopelia vinacea,2495694,SPECIES
 strigahermonthica,Striga hermonthica,3171159,SPECIES
 strophanthussarmentosus,Strophanthus sarmentosus,3169613,SPECIES
 struthiocamelus,Struthio camelus,2495150,SPECIES
-stylochaetonlancifolius,Stylochaeton lancifolius,,
+stylochaetonlancifolius,Stylochaeton lancifolius,7770248,
 susscrofa,Sus scrofa,7705930,SPECIES
 sylviacantillans,Sylvia cantillans,2492950,SPECIES
 sylvicapragrimmia,Sylvicapra grimmia,2441187,SPECIES
@@ -749,9 +749,9 @@ tachymarptisaequatorialis,Tachymarptis aequatorialis,2477349,SPECIES
 tamarindusindica,Tamarindus indica,2975768,SPECIES
 taphozousmauritianus,Taphozous mauritianus,5218741,SPECIES
 tapinanthusbangwensis,Tapinanthus bangwensis,4004487,SPECIES
-tapinanthus,Tapinanthus,,
-tarentolaannularis,Tarentola annularis,,
-tarentolaephippiata,Tarentola ephippiata,,
+tapinanthus,Tapinanthus,7287961,
+tarentolaannularis,Tarentola annularis,2445042,
+tarentolaephippiata,Tarentola ephippiata,2445060,
 telescopusobtusus,Telescopus obtusus,2457445,SPECIES
 tephrosiabracteolatabracteolata,Tephrosia bracteolata bracteolata,7224769,VARIETY
 tephrosialinearis,Tephrosia linearis,5342046,SPECIES
@@ -777,12 +777,12 @@ tragelaphusscriptusscriptus,Tragelaphus scriptus scriptus,7261402,SUBSPECIES
 tremaorientalis,Trema orientalis,7141659,SPECIES
 treronwaalia,Treron waalia,2495756,SPECIES
 tribulusterrestris,Tribulus terrestris,5421116,SPECIES
-trichodesmaafricanum,Trichodesma africanum,,
-tricliceraspilosum,Tricliceras pilosum,,
+trichodesmaafricanum,Trichodesma africanum,7441736,
+tricliceraspilosum,Tricliceras pilosum,4160944,
 tripogonminimus,Tripogon minimus,4116133,SPECIES
 triticumaestivum,Triticum aestivum,7795888,SPECIES
 triumfettapentandra,Triumfetta pentandra,7917001,SPECIES
-tropiocolotestripolitanus,Tropiocolotes tripolitanus,,
+tropiocolotestripolitanus,Tropiocolotes tripolitanus,2445716,
 turturabyssinicus,Turtur abyssinicus,5231791,SPECIES
 tytoalba,Tyto alba,2497921,SPECIES
 upupaepops,Upupa epops,2498415,SPECIES
@@ -793,22 +793,22 @@ uvariachamae,Uvaria chamae,3154319,SPECIES
 vachelliaamythethophylla,Vachellia amythethophylla,7923036,SPECIES
 vachellianilotica,Vachellia nilotica,3974744,SPECIES
 vachelliasieberiana,Vachellia sieberiana,7564113,SPECIES
-vahliaoldenlandioides,Vahlia oldenlandioides,,
+vahliaoldenlandioides,Vahlia oldenlandioides,5669445,
 vanellustectus,Vanellus tectus,5229143,SPECIES
-varanusgriseus,Varanus griseus,,
-varanusniloticus,Varanus niloticus,,
+varanusgriseus,Varanus griseus,9628941,
+varanusniloticus,Varanus niloticus,2470656,
 veprisheterophylla,Vepris heterophylla,3834432,SPECIES
 vernoniagalamensis,Vernonia galamensis,5397194,SPECIES
 viduachalybeata,Vidua chalybeata,2484613,SPECIES
 viduamacroura,Vidua macroura,2484628,SPECIES
 viduaorientalis,Vidua orientalis,2484620,SPECIES
 vignaheterophylla,Vigna heterophylla,2982485,SPECIES
-vignaracemosa,Vigna racemosa,,
+vignaracemosa,Vigna racemosa,2982745,
 vignasubterranea,Vigna subterranea,2982714,SPECIES
-vignaunguiculata,Vigna unguiculata,,
+vignaunguiculata,Vigna unguiculata,2982583,
 vigna,Vigna,2982372,GENUS
 vitellariaparadoxaparadoxa,Vitellaria paradoxa paradoxa,7065379,SUBSPECIES
-vitexdoniana,Vitex doniana,,
+vitexdoniana,Vitex doniana,3905809,
 vitexmadiensissubspmadiensisoliv,Vitex madiensis subsp. madiensis Oliv.,7784860,SUBSPECIES
 vulpespallida,Vulpes pallida,5219237,SPECIES
 waltheriaindica,Waltheria indica,5406665,SPECIES
