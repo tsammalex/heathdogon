@@ -1,8 +1,14 @@
 # Dogon and Bangime Flora and Fauna terms
 
-Cite the source dataset as
+## How to cite
 
-> Moran, Steven & Forkel, Robert & Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.org)
+If you use these data please cite
+- the original source
+  > Moran, Steven & Forkel, Robert & Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.org)
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -35,3 +41,10 @@ Name | GitHub user | Role
  | @ | maintainer
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
